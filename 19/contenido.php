@@ -22,7 +22,7 @@ $tituloPagina = 'Contenido';
 
 	<p>El Citroën SM se dejó de fabricar en 1975 debido a ...</p>
 
-    <p>Funcionalidad 1</p>
+    <p>Funcionalidad 1.1</p>
 EOS;
     } 
 
