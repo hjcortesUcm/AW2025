@@ -21,6 +21,8 @@ $tituloPagina = 'Contenido';
 	<p>El Citroën SM era capaz de alcanzar 220Km/h y montaba un motor Masetati 2.7 V6 de 172 CV. Este motor fue diseñado a partir de un V8 ... </p>
 
 	<p>El Citroën SM se dejó de fabricar en 1975 debido a ...F1</p>
+
+    <p>Funcionalidad 1.1</p>
 EOS;
     } 
 
